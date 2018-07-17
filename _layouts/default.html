@@ -18,7 +18,11 @@
     display: block;
 }
 
-
+object-fit: contain;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
   
   
 </style>
@@ -35,10 +39,11 @@
 </head>
 <body>
   <section class="page-header">
-    <img class="header-image" src="images/logo-dtp.png" data-object-fit="cover">
   </section>
 
   <section class="main-content">
+        <img class="header-image" src="images/logo-dtp.png" data-object-fit="cover">
+    
     {{ content }}
 
     <footer class="site-footer">
