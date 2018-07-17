@@ -10,6 +10,22 @@ $section-headings-color: #2a8de1;
     width: 100%;
 }
 
+.header-image {
+    width: 25%;
+    vertical-align: middle;
+}
+
+.logo-container {
+    color: #0e3ec1;
+    font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 3rem;
+    letter-spacing: -0.025rem;
+    margin-bottom: 1.5rem;
+    vertical-align: middle;
+}
+
 .main-content {
     max-width: none;
     width: auto;
