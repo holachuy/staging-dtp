@@ -45,7 +45,7 @@ Users should be in control of their data on the web, part of this is the ability
 
 [Learn More](./why-dtp.html)  
 {: .learn-more}  
-<img class="section-image" src="./images/I_Blue_QA.png">   
+<img class="section-image" src="./images/AI_Blue_QA.png">   
 
 ## Technical Overview
 
