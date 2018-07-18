@@ -54,7 +54,7 @@ Users should be in control of their data on the web, part of this is the ability
 
 To get a more in-depth understanding of the project, its fundamentals and the details involved, please download “Data Transfer Project Overview and Fundamentals”. You can also use the button at the top of the page.
 
-DOWNLOAD
+<img class="download-image" src="./images/download.png">
 
 ## How to try it out
 
