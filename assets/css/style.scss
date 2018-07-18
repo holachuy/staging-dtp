@@ -59,7 +59,6 @@ p, ul, li {
     line-height: 1.5rem;
     letter-spacing: 0rem;
     color: #657786;
-    display: block;
     -webkit-margin-before: 1em;
     -webkit-margin-after: 1em;
     -webkit-margin-start: 0px;
@@ -88,7 +87,7 @@ a {
 a:hover { 
     color: #053975;
     outline-width: 0; 
-      cursor: pointer;
+    cursor: pointer;
     text-decoration: none;
     font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
@@ -101,7 +100,6 @@ a:hover {
     background: transparent;
     padding-right: 0;
     padding-left: 0;
-
     }
 
 .section-image {
