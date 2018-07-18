@@ -27,7 +27,6 @@ The Data Transfer Project uses services' existing APIs and authorization mechani
 
 [Learn More](./how-does-dtp-work.html)  
 {: .learn-more}  
-<img class="section-image" src="./images/AI_Blue_FileSharing.png">  
 
 ## What are some use cases
 
@@ -39,7 +38,6 @@ There are many use cases for users transferring data between services, some we k
 
 [Learn More](./use-cases.html)  
 {: .learn-more}  
-<img class="section-image" src="./images/AI_Blue_FileSharing.png">  
 
 ## Why do we need DTP
 
@@ -47,7 +45,7 @@ Users should be in control of their data on the web, part of this is the ability
 
 [Learn More](./why-dtp.html)  
 {: .learn-more}  
-<img class="section-image" src="./images/AI_Blue_FileSharing.png">   
+<img class="section-image" src="./images/I_Blue_QA.png">   
 
 ## Technical Overview
 
@@ -80,3 +78,6 @@ We welcome everyone to participate, the more expertise and viewpoints we have co
 ## Current State
 
 DTP is still in very active development. While we have code that works for a variety of use cases we are continually making improvements that might cause things to break occasionally. So as you are trying things please use it with caution and expect some hiccups. Both our bug list, as well as documentation in each provider’s directory as good places to look for known issues, or report problems you encounter.
+
+<img class="section-image" src="./images/AI_Blue_User data.png">   
+
