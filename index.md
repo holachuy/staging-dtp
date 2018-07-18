@@ -19,10 +19,7 @@ Data Transfer Project (DTP) is a collaboration of organizations committed to bui
 
 [Learn More](./what-is-dtp.html) 
 {: .learn-more}
-<img width="25%" src="./images/AI_Blue_FileSharing.png"> 
-{: .section-image}
-
-
+<img style="section-image" src="./images/AI_Blue_FileSharing.png"> 
 
 ## How does it work
 
@@ -30,17 +27,19 @@ The Data Transfer Project uses services' existing APIs and authorization mechani
 
 [Learn More](./how-does-dtp-work.html) 
 {: .learn-more}
+<img style="section-image" src="./images/AI_Blue_FileSharing.png"> 
 
 ## What are some use cases
 
 There are many use cases for users transferring data between services, some we know about today, and some we have yet to discover. A couple of examples of ones we know users want today are:
 
-* Trying out a new service
-* Leaving a service
-* Backing up your data
+  * Trying out a new service
+  * Leaving a service
+  * Backing up your data
 
 [Learn More](./use-cases.html) 
 {: .learn-more}
+<img style="section-image" src="./images/AI_Blue_FileSharing.png"> 
 
 ## Why do we need DTP
 
@@ -48,6 +47,7 @@ Users should be in control of their data on the web, part of this is the ability
 
 [Learn More](./why-dtp.html) 
 {: .learn-more}
+<img style="section-image" src="./images/AI_Blue_FileSharing.png"> 
 
 ## Technical Overview
 
@@ -61,18 +61,20 @@ DTP is still in development and is not quite ready for everyone to use yet. Howe
 
 Note: For both of these you need to get your own API keys from the services you want to port data between, please see instructions for getting keys.
 
-* Via Docker
-* Via Code
-* Sites powered by DTP (coming soon)
+  * Via Docker
+  * Via Code
+  * Sites powered by DTP (coming soon)
 
 
 ## How to participate
 
 We welcome everyone to participate, the more expertise and viewpoints we have contributing to the project the more successful it will be.
 
-* If you are a company that wants to add an integrations to allow your users to easy import and export data: Learn More  
-* If you are an individual that wants to contribute technically please see our contributions guide (add link).  
-* If you want to be involved in non-technical aspects of the project you can join the discussion at dtp-discuss or email the maintainers at portability-maintainers@googlegroups.com  
+  * If you are a company that wants to add an integrations to allow your users to easy import and export data: Learn More  
+  
+  * If you are an individual that wants to contribute technically please see our contributions guide (add link).  
+  
+  * If you want to be involved in non-technical aspects of the project you can join the discussion at dtp-discuss or email the maintainers at portability-maintainers@googlegroups.com  
 
 
 ## Current State
