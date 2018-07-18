@@ -52,7 +52,7 @@ h2 {
     clear: both;
 }
 
-p, code {
+p, ul, li {
     font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
     /* font-weight: 700; */
     /* font-size: 1.5rem; */
@@ -106,4 +106,6 @@ a:hover {
 
 .section-image {
     margin-top: -20px;
+    align: right;
+    width: 25%;
 }
