@@ -18,7 +18,9 @@ Current contributors include:
 Data Transfer Project (DTP) is a collaboration of organizations committed to building a common framework with open-source code that can connect any two online service providers, enabling a seamless, direct transfer of data between the two platforms.
 
 [Learn More](./what-is-dtp.html) 
-<img align="right" width="25%" src="./images/AI_Blue_FileSharing.png">
+{: .learn-more}
+<img width="25%" src="./images/AI_Blue_FileSharing.png"> 
+{: .section-image}
 
 
 
@@ -27,22 +29,25 @@ Data Transfer Project (DTP) is a collaboration of organizations committed to bui
 The Data Transfer Project uses services' existing APIs and authorization mechanisms to access data. It then uses service specific adapters to transfer that data into a common format, and then back into the new service’s API.
 
 [Learn More](./how-does-dtp-work.html) 
+{: .learn-more}
 
 ## What are some use cases
 
 There are many use cases for users transferring data between services, some we know about today, and some we have yet to discover. A couple of examples of ones we know users want today are:
 
-    Trying out a new service
-    Leaving a service
-    Backing up your data
+* Trying out a new service
+* Leaving a service
+* Backing up your data
 
 [Learn More](./use-cases.html) 
+{: .learn-more}
 
 ## Why do we need DTP
 
 Users should be in control of their data on the web, part of this is the ability to move their data. Currently users can download a copy of their data from most services, but that is only half the battle in terms of moving their data. DTP aims make move data between providers significantly easier for users.
 
 [Learn More](./why-dtp.html) 
+{: .learn-more}
 
 ## Technical Overview
 
@@ -56,18 +61,18 @@ DTP is still in development and is not quite ready for everyone to use yet. Howe
 
 Note: For both of these you need to get your own API keys from the services you want to port data between, please see instructions for getting keys.
 
-    * Via Docker
-    * Via Code
-    * Sites powered by DTP (coming soon)
+* Via Docker
+* Via Code
+* Sites powered by DTP (coming soon)
 
 
 ## How to participate
 
 We welcome everyone to participate, the more expertise and viewpoints we have contributing to the project the more successful it will be.
 
-    * If you are a company that wants to add an integrations to allow your users to easy import and export data: Learn More
-    * If you are an individual that wants to contribute technically please see our contributions guide (add link).
-    * If you want to be involved in non-technical aspects of the project you can join the discussion at dtp-discuss or email the maintainers at portability-maintainers@googlegroups.com
+* If you are a company that wants to add an integrations to allow your users to easy import and export data: Learn More  
+* If you are an individual that wants to contribute technically please see our contributions guide (add link).  
+* If you want to be involved in non-technical aspects of the project you can join the discussion at dtp-discuss or email the maintainers at portability-maintainers@googlegroups.com  
 
 
 ## Current State
