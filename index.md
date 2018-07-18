@@ -52,9 +52,9 @@ Users should be in control of their data on the web, part of this is the ability
 
 ## Technical Overview
 
-To get a more in-depth understanding of the project, its fundamentals and the details involved, please download “Data Transfer Project Overview and Fundamentals”. You can also use the button at the top of the page.
+To get a more in-depth understanding of the project, its fundamentals and the details involved, please download [“Data Transfer Project Overview and Fundamentals”](./dtp-overview.pdf). You can also use the button at the top of the page.
 
-<img class="download-image" src="./images/download.png">
+<a href="./dtp-overview.pdf" class="download-link" ><img class="download-image" src="./images/download.png"></a>
 
 ## How to try it out
 
