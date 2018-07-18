@@ -11,6 +11,7 @@ The Data Transfer Project was formed in 2017 to create an open-source, service-t
 The contributors in the Data Transfer Project believe portability and interoperability are central to innovation. Making it easier for individuals to choose among services facilitates competition, empowers individuals to try new services and enables them to choose the offering that best suits their needs.
 
 Current contributors include:
+
 <img class="logo-image" src="./images/logo-google.png"><img class="logo-image" src="./images/logo-facebook.png"><img class="logo-image" src="./images/logo-microsoft.png"><img class="logo-image" src="./images/logo-twitter.png">
 
 
