@@ -6,10 +6,12 @@ $section-headings-color: #2a8de1;
 
 
 .page-header {
-    color: #fff;
-    text-align: center;
     background-color: #0e3ec1;
-    height: 10%;
+    color: #fff;
+    font-size 16px;
+    font-weight: 700;
+    height: 48px;
+    text-align: center;
     width: 100%;
     position: fixed;
 }
@@ -17,9 +19,11 @@ $section-headings-color: #2a8de1;
 .download-header-link {
     background-color: transparent;
     border-radius: 25px;
+    border-style: solid;
+    border-color: white;
     color: white;
     margin-right: 10%;
-    margin-top: 10px;
+    margin-top: 5px;
     float: right;
     vertical-align: middle;
 }
