@@ -17,16 +17,19 @@ Current contributors include:
 
 
 ## What is the Data Transfer Project
+<div class="mustache">
+</div>
+
 
 Data Transfer Project (DTP) is a collaboration of organizations committed to building a common framework with open-source code that can connect any two online service providers, enabling a seamless, direct transfer of data between the two platforms.
 
-[Learn More](./what-is-dtp.html){: .learn-more}<img class="section-image" src="./images/AI_Blue_FileSharing.png">  
+[Learn More](./what-is-dtp.md){: .learn-more}<img class="section-image" src="./images/AI_Blue_FileSharing.png">  
 
 ## How does it work
 
 The Data Transfer Project uses services' existing APIs and authorization mechanisms to access data. It then uses service specific adapters to transfer that data into a common format, and then back into the new service’s API.
 
-[Learn More](./how-does-dtp-work.html)  
+[Learn More](./how-does-dtp-work.md)  
 {: .learn-more}  
 
 ## What are some use cases
@@ -37,14 +40,14 @@ There are many use cases for users transferring data between services, some we k
   * Leaving a service
   * Backing up your data
 
-[Learn More](./use-cases.html)  
+[Learn More](./use-cases.md)  
 {: .learn-more}  
 
 ## Why do we need DTP
 
 Users should be in control of their data on the web, part of this is the ability to move their data. Currently users can download a copy of their data from most services, but that is only half the battle in terms of moving their data. DTP aims make move data between providers significantly easier for users.
 
-[Learn More](./why-dtp.html)  
+[Learn More](./why-dtp.md)  
 {: .learn-more}  
 <img class="section-image" src="./images/AI_Blue_QA.png">   
 
