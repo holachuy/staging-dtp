@@ -20,6 +20,19 @@ $section-headings-color: #2a8de1;
     vertical-align: middle;
 }
 
+.header-text {
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+    margin-top: 10px;
+    color: white;
+    font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1rem;
+    letter-spacing: -0.025rem; 
+}
+
 .logo-image {
     width: 20%;
     vertical-align: middle;
