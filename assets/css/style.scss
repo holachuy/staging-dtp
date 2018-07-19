@@ -32,16 +32,16 @@ body {
     vertical-align: middle;
 }
 
-.download-header-link a:hover {
-    color: #111;
+.download-header-link:hover {
+    opacity: .6;
 }
 
 .header-text {
+    color: white;
     display: inline-block;
     float: left;
+    line-height: 48px;
     margin-left: 10%;
-    margin-top: 10px;
-    color: white;
     vertical-align: middle;
 }
 
@@ -132,9 +132,6 @@ a {
     font-size: 0.87rem;
     line-height: 1.5rem;
     letter-spacing: 0.03rem;
-    border-color: transparent;
-    border-style: solid;
-    border-width: 1px;
     background: transparent;
     padding-right: 0;
     padding-left: 0;
@@ -148,9 +145,6 @@ a:hover {
     font-size: 0.87rem;
     line-height: 1.5rem;
     letter-spacing: 0.03rem;
-    border-color: transparent;
-    border-style: solid;
-    border-width: 1px;
     background: transparent;
     padding-right: 0;
     padding-left: 0;
