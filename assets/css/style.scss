@@ -4,6 +4,9 @@ $section-headings-color: #2a8de1;
 
 // Thank you to @milesryandev for the amazing design of the datatransferproject.dev page
 
+body {
+    font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
 .page-header {
     background-color: #0e3ec1;
@@ -22,10 +25,15 @@ $section-headings-color: #2a8de1;
     border-style: solid;
     border-color: white;
     color: white;
+    float: right;
     margin-right: 10%;
     margin-top: 5px;
-    float: right;
+    padding: 5px 5px 5px 5px;
     vertical-align: middle;
+}
+
+.download-header-link a:hover {
+    color: #111;
 }
 
 .header-text {
@@ -39,7 +47,6 @@ $section-headings-color: #2a8de1;
 
 .header-link {
     color: white;
-    font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     font-size: 1rem;
     line-height: 1rem;
@@ -48,7 +55,6 @@ $section-headings-color: #2a8de1;
 
 .header-link:hover {
     color: white;
-    font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 900;
     font-size: 1rem;
     line-height: 1rem;
@@ -67,7 +73,6 @@ $section-headings-color: #2a8de1;
 
 .logo-container {
     color: #0e3ec1;
-    font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     font-size: 3rem;
     line-height: 3rem;
@@ -85,7 +90,6 @@ $section-headings-color: #2a8de1;
 }
 
 h2 {
-    font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     font-size: 1.5rem;
     line-height: 1.5rem;
@@ -103,7 +107,6 @@ h2 {
 }
 
 p, li {
-    font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
     /* font-weight: 700; */
     /* font-size: 1.5rem; */
     line-height: 1.5rem;
@@ -123,9 +126,8 @@ ul {
 }
 
 a {
- 	color: #0e3ec1;
+    color: #0e3ec1;
     text-decoration: none;
-    font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     font-size: 0.87rem;
     line-height: 1.5rem;
@@ -140,10 +142,8 @@ a {
 
 a:hover { 
     color: #053975;
-    outline-width: 0; 
     cursor: pointer;
     text-decoration: none;
-    font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     font-size: 0.87rem;
     line-height: 1.5rem;
