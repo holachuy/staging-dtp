@@ -14,12 +14,18 @@ $section-headings-color: #2a8de1;
 }
 
 .header-image {
+    margin-right: 10%;
+    height: 90%;
+    vertical-align: middle;
+}
+
+.logo-image {
     padding: 20px;
     width: 20%;
     vertical-align: middle;
 }
 
-.header-text {
+.logo-text {
     display: inline-block;
 }
 
