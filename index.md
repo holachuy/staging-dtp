@@ -74,7 +74,7 @@ We welcome everyone to participate, the more expertise and viewpoints we have co
 
   * If you are a company that wants to add an integrations to allow your users to easy import and export data: [Learn More](https://github.com/google/data-transfer-project/blob/master/Documentation/Integration.md) 
   
-  * If you are an individual that wants to contribute technically please see our contributions guide (add link).  
+  * If you are an individual that wants to contribute technically please see our contributions guide [Learn More](https://github.com/google/data-transfer-project/blob/master/Documentation/Developer.md) 
   
   * If you want to be involved in non-technical aspects of the project you can join the discussion at dtp-discuss or email the maintainers at portability-maintainers@googlegroups.com  
 
