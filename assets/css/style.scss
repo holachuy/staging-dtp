@@ -36,7 +36,7 @@ $section-headings-color: #2a8de1;
     vertical-align: middle;
 }
 
-.main-content, ul {
+.main-content {
     max-width: none;
     width: auto;
     margin-right: 12%;
@@ -115,4 +115,10 @@ a:hover {
     margin-top: -50px;
     float: right;
     width: 25%;
+}
+
+.mustache {
+    height: 6px;
+    width: 72px;
+    background-color: #0e3ec1;
 }
