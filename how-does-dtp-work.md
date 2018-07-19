@@ -1,4 +1,7 @@
 ## How does DTP Work
+<div class="mustache">
+</div>
+
 DTP comprises three main components:
 
 Data Models are the canonical formats that establish a common understanding of how to transfer data.
