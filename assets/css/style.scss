@@ -16,11 +16,11 @@ $section-headings-color: #2a8de1;
 .header-image {
     margin-right: 10%;
     height: 90%;
+    float: right;
     vertical-align: middle;
 }
 
 .logo-image {
-    padding: 20px;
     width: 20%;
     vertical-align: middle;
 }
@@ -28,12 +28,6 @@ $section-headings-color: #2a8de1;
 .logo-text {
     display: inline-block;
 }
-
-.logo-image {
-    margin: 10px;
-    width: 120px;
-}
-
 
 .logo-container {
     color: #0e3ec1;
