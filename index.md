@@ -63,8 +63,8 @@ DTP is still in development and is not quite ready for everyone to use yet. Howe
 
 Note: For both of these you need to get your own API keys from the services you want to port data between, please see instructions for getting keys.
 
-  * Via Docker
-  * Via Code
+  * [Via Docker](https://github.com/google/data-transfer-project/blob/master/Documentation/RunFromDocker.md)
+  * [Via Code](https://github.com/google/data-transfer-project/blob/master/Documentation/Developer.md)
   * Sites powered by DTP (coming soon)
 
 
@@ -72,7 +72,7 @@ Note: For both of these you need to get your own API keys from the services you 
 
 We welcome everyone to participate, the more expertise and viewpoints we have contributing to the project the more successful it will be.
 
-  * If you are a company that wants to add an integrations to allow your users to easy import and export data: Learn More  
+  * If you are a company that wants to add an integrations to allow your users to easy import and export data: [Learn More](https://github.com/google/data-transfer-project/blob/master/Documentation/Integration.md) 
   
   * If you are an individual that wants to contribute technically please see our contributions guide (add link).  
   
