@@ -63,7 +63,7 @@ body {
 
 .logo-text {
     display: inline-block;
-    vertial-align: middle;
+    vertical-align: middle;
 }
 
 .logo-container {
@@ -170,12 +170,22 @@ ul {
   }
 }
 
-@media (max-width: 850px) {
+@media (max-width: 850px) and (min-width: 530px)  {
   .logo-image {
     width: 15%;
   }
   .logo-container {
     font-size: 2rem;
     line-height: 2rem;
+  }
+}
+
+@media (max-width: 530px)  {
+  .logo-image {
+    width: 15%;
+  }
+  .logo-container {
+    font-size: 1.2rem;
+    line-height: 1.2rem;
   }
 }
