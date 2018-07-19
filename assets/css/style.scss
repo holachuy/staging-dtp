@@ -36,7 +36,7 @@ body {
     opacity: .6;
 }
 
-.header-text {
+.header-text, .header-text:hover {
     color: white;
     display: inline-block;
     float: left;
@@ -117,7 +117,7 @@ ul {
     margin-left: 20px;
 }
 
-a {
+.main-content a {
     color: #0e3ec1;
     text-decoration: none;
     font-weight: 700;
@@ -129,7 +129,7 @@ a {
     padding-left: 0;
 }
 
-a:hover { 
+.main-content a:hover { 
     color: #053975;
     cursor: pointer;
     text-decoration: none;
