@@ -14,13 +14,14 @@ $section-headings-color: #2a8de1;
     position: fixed;
 }
 
-.header-image {
+.download-header-link {
+    background-color: transparent;
+    border-radius: 25px;
+    color: white;
     margin-right: 10%;
+    margin-top: 10px;
     float: right;
     vertical-align: middle;
-    max-width: 50%;
-    height: auto;
-    max-height: 100%;
 }
 
 .header-text {
@@ -29,6 +30,7 @@ $section-headings-color: #2a8de1;
     margin-left: 10%;
     margin-top: 10px;
     color: white;
+    vertical-align: middle;
 }
 
 .header-link {
