@@ -81,9 +81,7 @@ We welcome everyone to participate, the more expertise and viewpoints we have co
   
   * If you want to be involved in non-technical aspects of the project you can join the discussion at dtp-discuss or email the maintainers at portability-maintainers@googlegroups.com  
 
-<div class="state-section">  
-
-
+<span class="state-section" markdown="1">  
 
 ## Current State
 
@@ -91,5 +89,5 @@ DTP is still in very active development. While we have code that works for a var
 
 <img class="section-image" src="./images/AI_Blue_User data.png">  
 
-</div>
+</span>
 
