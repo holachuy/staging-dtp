@@ -150,9 +150,14 @@ ul {
     }
 
 .section-image {
-    margin-top: -30px;
-    float: right;
+    display: inline-block;
+    vertical-align: middle;
     width: 25%;
+}
+
+.section-text {
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .mustache {
