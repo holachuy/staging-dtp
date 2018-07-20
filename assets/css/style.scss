@@ -25,9 +25,10 @@ body {
 
 .download-header-link {
     background-color: transparent;
+    border-color: white;
     border-radius: 25px;
     border-style: solid;
-    border-color: white;
+    border-width: thin;
     color: white;
     float: right;
     margin-right: 10%;
@@ -74,6 +75,10 @@ body {
     margin-bottom: 1.5rem;
     margin-top: 58px;
     vertical-align: middle;
+}
+
+contributors-container {
+    text-align: center;
 }
 
 .main-content {
