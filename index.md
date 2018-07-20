@@ -35,11 +35,13 @@ Data Transfer Project (DTP) is a collaboration of organizations committed to bui
 <div class="section-image-container"><img class="section-image" src="./images/AI_Blue_FileSharing.png"></div>
 </div>
 
+<div class="section" markdown="1">
 ## How does it work
 <div class="mustache">
 </div>
 
 The Data Transfer Project uses services' existing APIs and authorization mechanisms to access data. It then uses service specific adapters to transfer that data into a common format, and then back into the new service’s API.
+</div>
 
 [Learn More](./how-does-dtp-work.md){: .learn-more}  
 </div>

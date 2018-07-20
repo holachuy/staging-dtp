@@ -151,7 +151,7 @@ ul {
 }
 
 .section {
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .section-image {
@@ -213,5 +213,21 @@ ul {
   .logo-container {
     font-size: 1.2rem;
     line-height: 1.2rem;
+  }
+}
+
+@media (max-width: 100px) and (min-width: 500px)  {
+  .section-image {
+    width: 100px;
+  }
+}
+
+// On small screens skip the images
+@media (max-width: 100px) and (min-width: 500px)  {
+  .section-image {
+    visibility: hidden;
+  }
+  .section-text {
+    max-width: 100%;
   }
 }
