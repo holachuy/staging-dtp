@@ -226,6 +226,7 @@ ul {
 @media (max-width: 100px) and (min-width: 500px)  {
   .section-image {
     visibility: hidden;
+    width: 0px;
   }
   .section-text {
     max-width: 100%;
