@@ -29,6 +29,7 @@ Current contributors include:
 <div class="mustache">
 </div>
 Data Transfer Project (DTP) is a collaboration of organizations committed to building a common framework with open-source code that can connect any two online service providers, enabling a seamless, direct, user initiated portability of data between the two platforms.
+
 [Learn More](./what-is-dtp.md){: .learn-more}    
 </div>
 <div class="section-image-container"><img class="section-image" src="./images/AI_Blue_FileSharing.png"></div>
@@ -62,7 +63,8 @@ There are many use cases for users porting data directly between services, some 
 ## Why do we need DTP
 <div class="mustache">
 </div>
-Users should be in control of their data on the web, part of this is the ability to move their data. Currently users can download a copy of their data from most services, but that is only half the battle in terms of moving their data. DTP aims make move data between providers significantly easier for users.    
+Users should be in control of their data on the web, part of this is the ability to move their data. Currently users can download a copy of their data from most services, but that is only half the battle in terms of moving their data. DTP aims make move data between providers significantly easier for users.
+
 [Learn More](./why-dtp.md){: .learn-more}  
 </div>
 <div class="section-image-container"><img class="section-image" src="./images/AI_Blue_QA.png"></div>
@@ -107,10 +109,12 @@ We welcome everyone to participate, the more expertise and viewpoints we have co
 </div>
 
 <div class="section" markdown="1">
+<div class="section-text" markdown="1">
 ## Current State
 
 DTP is still in very active development. While we have code that works for a variety of use cases we are continually making improvements that might cause things to break occasionally. So as you are trying things please use it with caution and expect some hiccups. Both our bug list, as well as documentation in each provider’s directory as good places to look for known issues, or report problems you encounter.
+</div>
 
-<img class="section-image" src="./images/AI_Blue_User data.png">
+<div class="section-image-container"><img class="section-image" src="./images/AI_Blue_User data.png"></div>
 </div>
 
