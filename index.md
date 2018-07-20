@@ -91,7 +91,7 @@ DTP is still in development and is not quite ready for everyone to use yet. Howe
 
 Note: For both of these you need to get your own API keys from the services you want to port data between, please see instructions for getting keys.
 
-  * [Via Docker](https://github.com/google/data-transfer-project/blob/master/Documentation/RunFromDocker.md)
+  * [Via Docker](https://github.com/google/data-transfer-project/blob/master/Documentation/RunningLocally.md)
   * [Via Code](https://github.com/google/data-transfer-project/blob/master/Documentation/Developer.md)
   * Sites powered by DTP (coming soon)
 </div>
@@ -113,6 +113,8 @@ We welcome everyone to participate, the more expertise and viewpoints we have co
 <div class="section" markdown="1">
 <div class="section-text" markdown="1">
 ## Current State
+<div class="mustache">
+</div>
 
 DTP is still in very active development. While we have code that works for a variety of use cases we are continually making improvements that might cause things to break occasionally. So as you are trying things please use it with caution and expect some hiccups. Both our bug list, as well as documentation in each provider’s directory as good places to look for known issues, or report problems you encounter.
 </div>
