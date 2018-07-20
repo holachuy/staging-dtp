@@ -30,7 +30,7 @@ Current contributors include:
 Data Transfer Project (DTP) is a collaboration of organizations committed to building a common framework with open-source code that can connect any two online service providers, enabling a seamless, direct, user initiated portability of data between the two platforms.
 [Learn More](./what-is-dtp.md){: .learn-more}
 </div>
-<img class="section-image" src="./images/AI_Blue_FileSharing.png">
+<figure><img class="section-image" src="./images/AI_Blue_FileSharing.png"></figure>
 </div>
 
 ## How does it work
