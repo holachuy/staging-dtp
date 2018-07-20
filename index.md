@@ -60,7 +60,9 @@ There are many use cases for users transferring data between services, some we k
 </div>
 Users should be in control of their data on the web, part of this is the ability to move their data. Currently users can download a copy of their data from most services, but that is only half the battle in terms of moving their data. DTP aims make move data between providers significantly easier for users.  
 [Learn More](./why-dtp.md){: .learn-more}  
-</div><img class="section-image" src="./images/AI_Blue_QA.png"></div>
+</div>  
+![what is DTP](./images/AI_Blue_QA.png){:.section-image}  
+</div>  
 
 ## Technical Overview
 <div class="mustache">
