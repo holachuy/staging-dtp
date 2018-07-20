@@ -8,7 +8,7 @@ description: Data Transfer Project is a collaboration of organizations committed
 <div class="mustache">
 </div>
 
-The Data Transfer Project was formed in 2017 to create an open-source, service-to-service portability platform so that all individuals across the web could easily move their data between online service providers.
+The Data Transfer Project was formed in 2017 to create an open-source, service-to-service data portability platform so that all individuals across the web could easily move their data between online service providers whenever they want.
 
 The contributors in the Data Transfer Project believe portability and interoperability are central to innovation. Making it easier for individuals to choose among services facilitates competition, empowers individuals to try new services and enables them to choose the offering that best suits their needs.
 
@@ -27,7 +27,7 @@ Current contributors include:
 ## What is the Data Transfer Project
 <div class="mustache">
 </div>
-Data Transfer Project (DTP) is a collaboration of organizations committed to building a common framework with open-source code that can connect any two online service providers, enabling a seamless, direct transfer of data between the two platforms.  
+Data Transfer Project (DTP) is a collaboration of organizations committed to building a common framework with open-source code that can connect any two online service providers, enabling a seamless, direct, user initiated portability of data between the two platforms.  
 [Learn More](./what-is-dtp.md){: .learn-more}  
 </div><img class="section-image" src="./images/AI_Blue_FileSharing.png"></div>
 
