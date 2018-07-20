@@ -77,7 +77,7 @@ body {
     vertical-align: middle;
 }
 
-contributors-container {
+.contributors-container {
     text-align: center;
 }
 
@@ -160,6 +160,10 @@ ul {
     height: 6px;
     width: 72px;
     background-color: #0e3ec1;
+}
+
+.state-section {
+    backgroud-color: #F5F8FA;
 }
 
 @media (max-width: 550px) {
