@@ -81,13 +81,10 @@ We welcome everyone to participate, the more expertise and viewpoints we have co
   
   * If you want to be involved in non-technical aspects of the project you can join the discussion at dtp-discuss or email the maintainers at portability-maintainers@googlegroups.com  
 
-<span class="state-section" markdown="1">  
 
 ## Current State
 
 DTP is still in very active development. While we have code that works for a variety of use cases we are continually making improvements that might cause things to break occasionally. So as you are trying things please use it with caution and expect some hiccups. Both our bug list, as well as documentation in each provider’s directory as good places to look for known issues, or report problems you encounter.
 
-<img class="section-image" src="./images/AI_Blue_User data.png">  
-
-</span>
+<img class="section-image" src="./images/AI_Blue_User data.png">   
 
